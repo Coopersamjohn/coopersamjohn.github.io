@@ -3,6 +3,7 @@
     <img class="mobile" src="./assets/logo1.png">
     <p>{{ msg }}</p>
     <PTS/>
+    <a href="coopersamjohn.github.io/portfolio-resume/">Robert Cooper Portfolio Resume</a>
   </div>
 </template>
 
